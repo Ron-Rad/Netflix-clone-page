@@ -44,7 +44,7 @@ A Netflix-like website built for streaming movies and TV shows. This project is 
    ```bash
    npm start
    ```
-   #####Alternatively. . .
+   #### Alternatively. . .
 
   * Download the zip
   * Unzip folder
